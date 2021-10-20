@@ -39,7 +39,7 @@
     <fragment
         android:id="@+id/FourthFragment"
         android:name="com.example.basicactivitysimplefragments.FourthFragment"
-        android:label="fragment_fourth"
+        android:label="@string/fourth_fragment_label"
         tools:layout="@layout/fragment_fourth" >
         <action
             android:id="@+id/action_FourthFragment_to_FirstFragment"
